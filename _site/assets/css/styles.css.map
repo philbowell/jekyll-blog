@@ -7,8 +7,8 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";\n",
-		".current {\n  color: green;\n}\n"
+		"body {\n    font-family: sans-serif;\n    font-size: 100%;\n    line-height: 1.4em;\n    margin: 0;\n}\n\n\nheader {\n    align-items: center;\n    display: flex;\n    font-size: 1.2rem;\n    height: 100px;\n    padding: 0 0 0 100px;\n    p {\n        font-weight: 700;\n        margin: 0 20px 0 0;\n    }\n    nav {\n        a {\n            margin: 0 10px 0 0;\n        }\n    }\n    .current {\n      color: green;\n    }\n}\n\n.content {\n    padding: 20px 0 0 100px;\n    p {\n        max-width: 700px;\n    }\n}\n"
 	],
 	"names": [],
-	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACP,KAAK,EAAE,KAAK,GACb"
+	"mappings": "ACAA,AAAA,IAAI,CAAC,EACD,WAAW,EAAE,UAAU,EACvB,SAAS,EAAE,IAAI,EACf,WAAW,EAAE,KAAK,EAClB,MAAM,EAAE,CAAC,GACZ;;AAGD,AAAA,MAAM,CAAC,EACH,WAAW,EAAE,MAAM,EACnB,OAAO,EAAE,IAAI,EACb,SAAS,EAAE,MAAM,EACjB,MAAM,EAAE,KAAK,EACb,OAAO,EAAE,WAAW,GAavB;;AAlBD,AAMI,MANE,CAMF,CAAC,CAAC,EACE,WAAW,EAAE,GAAG,EAChB,MAAM,EAAE,UAAU,GACrB;;AATL,AAWQ,MAXF,CAUF,GAAG,CACC,CAAC,CAAC,EACE,MAAM,EAAE,UAAU,GACrB;;AAbT,AAeI,MAfE,CAeF,QAAQ,CAAC,EACP,KAAK,EAAE,KAAK,GACb;;AAGL,AAAA,QAAQ,CAAC,EACL,OAAO,EAAE,cAAc,GAI1B;;AALD,AAEI,QAFI,CAEJ,CAAC,CAAC,EACE,SAAS,EAAE,KAAK,GACnB"
 }

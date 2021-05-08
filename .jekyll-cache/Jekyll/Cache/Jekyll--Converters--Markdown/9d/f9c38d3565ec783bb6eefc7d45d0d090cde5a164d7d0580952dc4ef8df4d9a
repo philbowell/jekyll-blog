@@ -1,33 +1,10 @@
-<!doctype html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>About</title>
-        <link rel="stylesheet" href="/assets/css/styles.css">
-    </head>
-    <body>
-        <header>
-            <nav>
-  
-    <a href="/" >
-      Home
-    </a>
-  
-    <a href="/about.html" class="current">
-      About
-    </a>
-  
-</nav>
+I"<h1 id="about-page">About page</h1>
 
-        </header>
-        <h1>About</h1>
-        <p>Hi, I’m Philip!</p>
+<p>Hi, I’m Philip!</p>
 
 <p>I’m a Christian, a designer, and a gadget fan who lives in Cheltenham, UK.</p>
 
 <p>As a designer I started in the world of print design after university in 2007. I transitioned to designing and building websites professionally in 2012 when I set up my own small design business. I’ve always taken the approach of trying to understand what my users were doing on the websites I worked on and how I could serve them with my designs. Evidence-based design is at the heart of what I do and I now put it into practice as part of the in-house User Experience (UX) team at UCAS.</p>
 
 <p>Away from work, you can often find me yelling in support of my favourite football team, Nottingham Forest, cheering on Team Ineos in Le Tour de France, or glued to Mclaren’s recovery in Forumla 1. It’s equally likely you’ll find me relaxing on the sofa enjoying a good book or watching a good boxset (Friends, The West Wing, Designated Survivor, that kind of thing).</p>
-
-    </body>
-</html>
+:ET

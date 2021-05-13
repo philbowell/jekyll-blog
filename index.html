@@ -13,7 +13,7 @@
     <p>This is my blog, a creative outlet to mess around and play with as well as a place that logs my thoughts and inspirations.</p>
 
     <div class="content">
-        {% for post in site.posts %}
+        {% for post in site.posts limit:10 %}
         <article>
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         </article>

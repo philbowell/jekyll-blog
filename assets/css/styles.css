@@ -58,9 +58,20 @@ nav a {
 	color: green;
 }
 
+.container {
+	display: grid;
+	grid-template-columns:
+		1fr
+		min(70ch, 100%)
+		1fr;
+}
+
+.container > * {
+	grid-column: 2;
+}
+
 .intro {
 	font-size: 1.2rem;
-	padding: 0 0 0 100px;
 }
 
 .intro p {
@@ -68,11 +79,7 @@ nav a {
 }
 
 .content {
-	padding: 20px 0 0 100px;
-}
-
-.content p {
-	max-width: 650px;
+	padding: 20px 0 0 0;
 }
 
 #home article {
@@ -86,5 +93,5 @@ nav a {
 }
 
 footer {
-	padding: 20px 0 0 100px;
+	padding: 20px 0 0 0;
 }

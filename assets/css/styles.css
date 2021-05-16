@@ -9,15 +9,6 @@ body {
 	margin: 0;
 }
 
-
-header {
-	align-items: center;
-	display: flex;
-	font-size: 1.2rem;
-	height: 100px;
-	padding: 0 0 0 100px;
-}
-
 p {
 	margin-bottom: 1rem;
 }
@@ -43,7 +34,13 @@ h5 {font-size: 1.25rem;}
 
 small, .text_small {font-size: 0.8rem;}
 
-
+header {
+	align-items: center;
+	display: flex;
+	font-size: 1.2rem;
+	height: 100px;
+	padding: 0 0 0 100px;
+}
 
 header p {
 	font-weight: 700;
@@ -62,12 +59,18 @@ nav a {
 	display: grid;
 	grid-template-columns:
 		1fr
-		min(70ch, 100%)
+		min(70ch, calc(100% - 4rem))
 		1fr;
+	grid-column-gap: 2rem;
 }
 
 .container > * {
 	grid-column: 2;
+}
+
+.full-bleed {
+	width: 100%;
+	grid-column: 1 / -1;
 }
 
 .intro {

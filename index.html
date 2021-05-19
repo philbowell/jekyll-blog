@@ -18,7 +18,7 @@
 		</div>
 		 {% for post in site.posts limit:10 %}
         <article>
-			<div>{{ post.date | date: "%Y-%m-%d" }}</div>
+			<div class="post-date">{{ post.date | date: "%Y-%m-%d" }}</div>
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         </article>
         {% endfor %}

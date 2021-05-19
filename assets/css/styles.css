@@ -19,18 +19,18 @@ h1, h2, h3, h4, h5 {
 	margin: 3rem 0 1.38rem;
 }
 
-h1 {
+h1, .h1 {
   margin-top: 0;
   font-size: 3.052rem;
 }
 
-h2 {font-size: 2.441rem;}
+h2, .h2 {font-size: 2.441rem;}
 
-h3 {font-size: 1.953rem;}
+h3, .h3 {font-size: 1.953rem;}
 
-h4 {font-size: 1.563rem;}
+h4, .h4 {font-size: 1.563rem;}
 
-h5 {font-size: 1.25rem;}
+h5, .h5 {font-size: 1.25rem;}
 
 small, .text_small {font-size: 0.8rem;}
 
@@ -72,7 +72,7 @@ nav a {
 #home .container {
 	grid-template-columns:
 		4rem
-		min(140ch, calc(100% - 4rem))
+		min(70ch, calc(100% - 4rem))
 		1fr;
 }
 

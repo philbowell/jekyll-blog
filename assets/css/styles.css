@@ -72,7 +72,7 @@ nav a {
 #home .container {
 	grid-template-columns:
 		4rem
-		min(70ch, calc(100% - 4rem))
+		min(100ch, calc(100% - 4rem))
 		1fr;
 }
 
@@ -120,6 +120,7 @@ blockquote {
 	font-family: monospace;
 	margin-right: 2em;
 	font-variant-numeric: tabular-nums;
+	min-width: 100px;
 }
 
 footer {

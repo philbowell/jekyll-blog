@@ -7,14 +7,17 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
 </head>
-  <body>
+  <body id="home">
       <header>
           {% include navigation.html %}
       </header>
-    <p>I'm a Christian, a UX/UI designer, and a gadget fan who lives in Cheltenham, UK.</p>
-    <p>This is my blog, a creative outlet to mess around and play with as well as a place that logs my thoughts and inspirations.</p>
 
-    <div class="content">
+    <div class="container">
+        <div class="intro">
+            <h1>Hi, I'm Phil</h1>
+            <p>I'm a Christian, a UX/UI designer (some would say Product Designer), and a gadget fan who lives in Cheltenham, UK. This is my blog, a creative outlet to mess around and play with. A place to show my work. A place that logs my thoughts and inspirations.</p>
+        </div>
+
         {% for post in site.posts limit:10 %}
         <article>
 			<div class="post-date">{{ post.date | date: "%Y-%m-%d" }}</div>
@@ -22,6 +25,8 @@
         </article>
         {% endfor %}
     </div>
+
+    {% include footer.html %}
 
   </body>
 </html>

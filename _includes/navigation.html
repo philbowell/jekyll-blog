@@ -1,9 +1,12 @@
-<p>Phil Bowell</p>
 <nav>
-  <a href="/" {% if page.url == "/" %}style="color: red;"{% endif %}>
-    Home
+  <a class="home-link" href="/" {% if page.url == "/" %}{% endif %}>
+    Phil Bowell
   </a>
+  <p>//</p>
   <a href="/about.html" {% if page.url == "/about.html" %}style="color: red;"{% endif %}>
     About
+  </a>
+  <a href="/archive.html" {% if page.url == "/archive.html" %}style="color: red;"{% endif %}>
+    Archive
   </a>
 </nav>

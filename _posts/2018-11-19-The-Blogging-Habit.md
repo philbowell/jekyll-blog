@@ -7,16 +7,12 @@ I dabbled with a free blogger account, and then in my second year at university 
 
 In the fourteen years since I first began to blog, I’ve posted to my site at least a few times a year, often several times a month, and in a few bursts everyday for a couple of weeks. This year has been one of my most active on years for a long time, but most of that activity has been short posts or photos. There has been very little in the way of full blog posts, everything has been verging on the micro end of the scale. Whilst that’s fine, and has coincided with me using Twitter and Instagram less, over the last few months I’ve been fighting an itch to try and start writing a longer blog post a day (in the working week at least) but for whatever reason I’ve resisted it.
 
-Over the weekend I spotted a tweet from Austin Kleon in my timeline. He was \<a href="https://austinkleon.com/2017/11/20/a-few-notes-on-daily-blogging/" title="Austin Kleon “A few notes on daily blogging”"\>linking back to a post he wrote\</a\> just over a year ago after he had kickstarted his daily blogging habit. A couple of sentences in that post jumped out at me.
+Over the weekend I spotted a tweet from Austin Kleon in my timeline. He was [linking back to a post he wrote](https://austinkleon.com/2017/11/20/a-few-notes-on-daily-blogging/) just over a year ago after he had kickstarted his daily blogging habit. A couple of sentences in that post jumped out at me.
 
-\<blockquote\>
-I had no idea how badly my writing muscles had atrophied. After a couple of weeks, I could feel the sentences coming easier.
-\</blockquote\>
+> I had no idea how badly my writing muscles had atrophied. After a couple of weeks, I could feel the sentences coming easier.
 
 It began to sink in, that rather than thinking about trying to write a post a day, I should just get on and do it. It doesn’t matter really how good they are, the thing is to just get on and do it. But, I still managed to put the thought to the back of mind. Then I read the final point of his post.
 
-\<blockquote\>
-Maybe I’m weird, but it just feels good. It feels good to reclaim my turf. It feels good to have a spot to think out loud in public where people aren’t spitting and shitting all over the place.
-\</blockquote\>
+> Maybe I’m weird, but it just feels good. It feels good to reclaim my turf. It feels good to have a spot to think out loud in public where people aren’t spitting and shitting all over the place.
 
 I identified with that. The whole reason I started a blog fourteen years ago was because I wanted to. I enjoyed it. It felt good to have a place on the Internet that was mine, it was fun to have a hobby. So here I am, posting again. In a slightly longer format than I have been doing for most of the year. We’ll see how long it lasts, but the main focus, is to have fun and develop my hobby again.

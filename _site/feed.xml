@@ -6,7 +6,7 @@
         <link></link>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
         <description></description>
-        <lastBuildDate>Fri, 02 Jul 2021 17:18:20 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jul 2021 17:37:02 +0100</lastBuildDate>
         
         <item>
             <title>A tool for thinking</title>
@@ -720,6 +720,20 @@ With the arrival of Micro.blog my interest in my blog has picked up considerably
         </item>
         
         <item>
+            <title>Let me make a note of that</title>
+            <link>
+                /2015/Let-me-make-a-note-of-that
+            </link>
+            <description>
+                &lt;p&gt;Ever since I got my first iOS device, a 2nd generation iPod Touch, I’ve been on a quest to work out the best way to take notes. I’ve tried a shed load of different apps, Simplenote, Evernote, Notesy, the built in notes app, NVAlt… in fact if you can name it I’ve probably tried it. I’ve always read with interest articles on note taking setups, how people use them, how their go to app on...
+            </description>
+            <pubDate>Wed, 21 Oct 2015 00:00:00 +0100</pubDate>
+            <guid>
+                /2015/Let-me-make-a-note-of-that
+            </guid>
+        </item>
+        
+        <item>
             <title>Archives</title>
             <link>
                 /2015/Archives
@@ -807,6 +821,34 @@ In principle it’s a good tactic. The public declaration should be enough of a 
             <pubDate>Wed, 29 Apr 2015 00:00:00 +0100</pubDate>
             <guid>
                 /2015/Rediscovering-the-Personal-Site
+            </guid>
+        </item>
+        
+        <item>
+            <title>Thirty Things I've Learned in Thirty Years</title>
+            <link>
+                /2014/Thirty-Things-I've-learned-in-thirty-years
+            </link>
+            <description>
+                &lt;p&gt;When the year turned 2014 I began to reflect on my life, who I am, where I am and what I’m doing. Why should a simple year change cause such a mood to dawn on me? At the end of September I turned 30, it also happened to mark the 10 year anniversary since I left home and moved to university here in Cheltenham. These are two significant events in my life that mark the beginning and end o...
+            </description>
+            <pubDate>Fri, 10 Oct 2014 00:00:00 +0100</pubDate>
+            <guid>
+                /2014/Thirty-Things-I've-learned-in-thirty-years
+            </guid>
+        </item>
+        
+        <item>
+            <title>Fresh Start</title>
+            <link>
+                /2014/Fresh-Start
+            </link>
+            <description>
+                &lt;p&gt;It dawned on me today that I’ve been writing a blog, in one form or another, for the last 8 years. Initially, I was full of the youthful enthusiasm of someone who had just discovered the medium, I could easily sit down at my Mac and within half an hour have published a new post. Within a few months I had found a number of other bloggers who wrote with a little more quality than I did a...
+            </description>
+            <pubDate>Sun, 05 Oct 2014 00:00:00 +0100</pubDate>
+            <guid>
+                /2014/Fresh-Start
             </guid>
         </item>
         

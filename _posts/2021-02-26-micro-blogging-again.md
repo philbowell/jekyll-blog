@@ -1,5 +1,6 @@
 ---
 title: Micro blogging again
+tags: blogging
 ---
 I’ve recently made some changes to the hosting for my blog and other websites as part of the consolidation of my many websites in to one. I had been aiming to have one website to rule them all integrating my portfolio and my blog into one site.
 

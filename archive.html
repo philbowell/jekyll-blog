@@ -8,15 +8,20 @@
     <link rel="stylesheet" href="/assets/css/styles.css">
 </head>
   <body id="archive">
-      <header>
-          {% include navigation.html %}
-      </header>
+    <header>
+        <div class="container">
+            {% include navigation.html %}
+        </div>
+    </header>
 
-    <div class="container">
-        <div class="intro">
+    <div class="intro">
+        <div class="container">
             <h1>Archive</h1>
             <p>Here you'll find an archive all my blog posts. I'm gradually moving content over from my Wordpress powered blog so things may be a little incomplete for a while.</p>
         </div>
+    </div>
+
+    <div class="container content">
 
         {% for post in site.posts %}
         <article>

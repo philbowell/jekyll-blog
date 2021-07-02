@@ -1,0 +1,24 @@
+---
+layout: about
+title: About
+---
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+        <link rel="stylesheet" href="/assets/css/styles.css">
+    </head>
+    <body id="about">
+        <header>
+              <div class="container">
+                  {% include navigation.html %}
+              </div>
+        </header>
+        <div class="container content">
+            {{ content }}
+        </div>
+
+		{% include footer.html %}
+    </body>
+</html>

@@ -3,9 +3,7 @@ title: Write sentences, what I’m thinking, because I want too
 tags: creative-thinking writing blogging
 ---
 
-Tonight I came across two blog posts in Reeder as I was lying in bed catching up on my feeds and watching the Formula One.
-
-The [first](https://audacious.blog/2021/write/) was all about writing. The author coined a phrase that is very reminiscent of Michael Pollan’s approach to food.
+Tonight I came across two blog posts in Reeder as I was lying in bed catching up on my feeds and watching the Formula One. The [first](https://audacious.blog/2021/write/) was all about writing. The author coined a phrase that is very reminiscent of Michael Pollan’s approach to food.
 > Write sentences, not too many, mostly active.
 
 It riffs nicely off

@@ -1,5 +1,6 @@
 ---
 title: My book of the year 2020
+tags: books reading
 ---
 
 I've always enjoyed reading and for as long as I can remember I've read fiction. Several years ago I got surprised with a Kindle for Christmas from my parents. It caused me to increase dramatically the number of books I was reading.
@@ -14,4 +15,5 @@ __The Boy, the Mole, the Fox and the Horse__ by Charlie Mackesy is a masterpiece
 
 The quote that has been hanging in my living room is one which many people have reminded me of and one which will no doubt have me returning to time after time.
 > "Being kind to yourself is one of the greatest kindnesses," said the mole. "
+
 At a time when people often become quite introspective and look back at what they've done with the year, it's easy to see all the people shouting about how they have utilised the lockdown to achieve so much and feel inadequate. It would be easy to begin beating ourselves up. So we should take notice of what the mole has to say, and be kind to ourselves, because actually getting through this year is pretty good going.

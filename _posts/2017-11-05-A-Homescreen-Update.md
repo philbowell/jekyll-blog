@@ -52,4 +52,5 @@ This second page is purely for the apps I use regularly to watch content on my T
 - Netflix
 - YouTube
 - BT Sport
+
 Overall this has been a really interesting exercise that has helped me to really focus and consider how I use my iPhone. I hope to continue with it like this for a while. There’s just one thing I wish I could do, especially as I have small hands, and that is to be able to pin those eight apps to the two rows above the dock rather than at the top of the screen.

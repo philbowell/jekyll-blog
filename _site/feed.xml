@@ -6,7 +6,7 @@
         <link></link>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
         <description></description>
-        <lastBuildDate>Fri, 02 Jul 2021 17:37:02 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jul 2021 17:56:17 +0100</lastBuildDate>
         
         <item>
             <title>A tool for thinking</title>
@@ -849,6 +849,122 @@ In principle it’s a good tactic. The public declaration should be enough of a 
             <pubDate>Sun, 05 Oct 2014 00:00:00 +0100</pubDate>
             <guid>
                 /2014/Fresh-Start
+            </guid>
+        </item>
+        
+        <item>
+            <title>Resolutions and Intentions</title>
+            <link>
+                /2013/Resolutions-and-Intentions
+            </link>
+            <description>
+                &lt;p&gt;At the start of every year, I, along with millions of others around the world, make resolutions. We decide, often quite flippantly, to do certain things. It could be to change a habit, lose weight, or to get fitter and just “be healthier”. But 99% of the time they are lofty goals that last only a couple of weeks, a month or maybe six weeks if you really try hard, but they rarely last.&...
+            </description>
+            <pubDate>Mon, 21 Jan 2013 00:00:00 +0000</pubDate>
+            <guid>
+                /2013/Resolutions-and-Intentions
+            </guid>
+        </item>
+        
+        <item>
+            <title>Do you like to shave?</title>
+            <link>
+                /2012/Do-you-like-to-shave
+            </link>
+            <description>
+                &lt;p&gt;I like to shave.&lt;/p&gt;
+
+&lt;p&gt;Ask most men my age, their late twenties, that question and its usually met with a snort. An upturned lip. A look that says “are you serious?” without words passing their lips.&lt;/p&gt;
+
+&lt;p&gt;In fact if you asked me that question a few years ago I would’ve responded in much the same way.&lt;/p&gt;
+
+&lt;p&gt;So what changed I hear you say? My ap...
+            </description>
+            <pubDate>Thu, 15 Nov 2012 00:00:00 +0000</pubDate>
+            <guid>
+                /2012/Do-you-like-to-shave
+            </guid>
+        </item>
+        
+        <item>
+            <title>The One Where I Announce I'm Now Self Employed</title>
+            <link>
+                /2012/The-One-Where-I-Announce-I'm-Now-Self-Employed
+            </link>
+            <description>
+                &lt;p&gt;There are some posts you dream about writing, posts you’d love to write but never think you actually will. This is one of those posts.&lt;/p&gt;
+
+&lt;p&gt;A few weeks ago I wrote a post about change. Changing the way I approached something has lead to exciting guidance and a big change in my career.&lt;/p&gt;
+
+&lt;p&gt;It started with a conversation with two very good friends of mine. ...
+            </description>
+            <pubDate>Fri, 31 Aug 2012 00:00:00 +0100</pubDate>
+            <guid>
+                /2012/The-One-Where-I-Announce-I'm-Now-Self-Employed
+            </guid>
+        </item>
+        
+        <item>
+            <title>Change</title>
+            <link>
+                /2012/Change
+            </link>
+            <description>
+                &lt;p&gt;For the last few years I’ve been praying about something. I’m sure many of you have as well, but this particular &lt;em&gt;thing&lt;/em&gt; has occupied my prayers for several years. I’ve been praying about it in the same way for pretty much the entire time, asking for guidance and direction in relation to the &lt;em&gt;thing&lt;/em&gt;. During that time the urge to do that &lt;em&gt;t...
+            </description>
+            <pubDate>Sun, 01 Jul 2012 00:00:00 +0100</pubDate>
+            <guid>
+                /2012/Change
+            </guid>
+        </item>
+        
+        <item>
+            <title>I Miss My Cave</title>
+            <link>
+                /2012/I-Miss-My-Cave
+            </link>
+            <description>
+                &lt;blockquote&gt;
+  &lt;em&gt;man cave&lt;/em&gt; 
+  noun Informal .
+  a room or other area in a home that is primarily a male sanctuary, designed and furnished to accommodate the man&#39;s recreational activities, hobbies, etc.
+  &lt;a href=&quot;http://dictionary.reference.com/browse/man+cave&quot;&gt;Dictionery.com&lt;/a&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;During my latter years at school whi...
+            </description>
+            <pubDate>Tue, 13 Mar 2012 00:00:00 +0000</pubDate>
+            <guid>
+                /2012/I-Miss-My-Cave
+            </guid>
+        </item>
+        
+        <item>
+            <title>Reading Stories Food For The Imagination</title>
+            <link>
+                /2012/Reading-Stories-Food-for-the-Imagination
+            </link>
+            <description>
+                
+
+            </description>
+            <pubDate>Sun, 22 Jan 2012 00:00:00 +0000</pubDate>
+            <guid>
+                /2012/Reading-Stories-Food-for-the-Imagination
+            </guid>
+        </item>
+        
+        <item>
+            <title>Wecloming 2012 and Setting a Few Targets</title>
+            <link>
+                /2012/Wecloming-2012-and-Setting-a-Few-Targets
+            </link>
+            <description>
+                &lt;p&gt;It’s that time once again when many people are posting reviews of the year just passed. I always enjoy reading these posts, seeing the people I follow who have achieved all that or more than they hoped to whilst hoping those who didn’t are able to in the coming year. I’m always drawn to writing something myself, and whilst my last year contains many highlights – my trip to Israel, a su...
+            </description>
+            <pubDate>Mon, 02 Jan 2012 00:00:00 +0000</pubDate>
+            <guid>
+                /2012/Wecloming-2012-and-Setting-a-Few-Targets
             </guid>
         </item>
         

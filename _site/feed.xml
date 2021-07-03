@@ -6,7 +6,23 @@
         <link></link>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
         <description></description>
-        <lastBuildDate>Fri, 02 Jul 2021 17:56:17 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 01:15:49 +0100</lastBuildDate>
+        
+        <item>
+            <title></title>
+            <link>
+                /2021/2009-01-03-Two-Mac-Nightmare-Email-Contacts
+            </link>
+            <description>
+                &lt;p&gt;If you’ve only just found this series of posts exploring how I keep my two Macs in sync you might want to look at the &lt;a href=&quot;http://phil.electricweekend.com/2008/12/mac-sync-series/&quot;&gt;introduction&lt;/a&gt; of the series to help set the scene. In this post I want to explore the issue of keeping emails and contacts in sync.&lt;/p&gt;
+
+&lt;p&gt;Now I’m sure the majority ...
+            </description>
+            <pubDate>Sat, 03 Jul 2021 01:15:49 +0100</pubDate>
+            <guid>
+                /2021/2009-01-03-Two-Mac-Nightmare-Email-Contacts
+            </guid>
+        </item>
         
         <item>
             <title>A tool for thinking</title>
@@ -940,13 +956,12 @@ In principle it’s a good tactic. The public declaration should be enough of a 
         </item>
         
         <item>
-            <title>Reading Stories Food For The Imagination</title>
+            <title>Reading Stories, Food for the Imagination</title>
             <link>
                 /2012/Reading-Stories-Food-for-the-Imagination
             </link>
             <description>
-                
-
+                &lt;p&gt;I work as a graphic designer. Like many other folks in my profession I find it hard to turn off. I may not be thinking about projects from work all the time, but I’m always thinking about projects I’d like to do or reviewing the things I see all around me. I see every piece of design and mentally critic it, 99% of the time I’m not even aware I’m doing it, but it’s there, almost like a ...
             </description>
             <pubDate>Sun, 22 Jan 2012 00:00:00 +0000</pubDate>
             <guid>
@@ -965,6 +980,141 @@ In principle it’s a good tactic. The public declaration should be enough of a 
             <pubDate>Mon, 02 Jan 2012 00:00:00 +0000</pubDate>
             <guid>
                 /2012/Wecloming-2012-and-Setting-a-Few-Targets
+            </guid>
+        </item>
+        
+        <item>
+            <title>In Search Of Flow</title>
+            <link>
+                /2011/In-Search-Of-Flow
+            </link>
+            <description>
+                &lt;p&gt;Like most of the world, the arrival of an iPad in my life has meant a lot of my established routines and behaviours have changed. I’m no longer setting up camp on my sofa with my MacBook Pro to spend some time reading RSS feeds and going where the links take me, instead this time is being spent using my iPad. I find I’m using my MacBook Pro a lot less than I used too, that’s not necess...
+            </description>
+            <pubDate>Tue, 12 Jul 2011 00:00:00 +0100</pubDate>
+            <guid>
+                /2011/In-Search-Of-Flow
+            </guid>
+        </item>
+        
+        <item>
+            <title>My First Conference (Part Two)</title>
+            <link>
+                /2011/My-First-Conference-(Part-Two)
+            </link>
+            <description>
+                &lt;p&gt;I’ve been trying to work a seemingly random collection of thoughts into a follow up post about New Adventures conference. It’s not really happened so I’ve chosen to just throw them out there to anyone who is interested.
+Overall I enjoyed the day, it was fun, informative and pushed me out of my comfort zone, teaching me things about design and myself that are valuable and I am processin...
+            </description>
+            <pubDate>Sat, 05 Feb 2011 00:00:00 +0000</pubDate>
+            <guid>
+                /2011/My-First-Conference-(Part-Two)
+            </guid>
+        </item>
+        
+        <item>
+            <title>My First Conference (Part One)</title>
+            <link>
+                /2011/My-First-Conference-(Part-One)
+            </link>
+            <description>
+                &lt;p&gt;This week I’m heading to my first design conference in the form of &lt;a href=&quot;http://newadventuresconf.com/&quot;&gt;New Adventures&lt;/a&gt; in my home town ((Well 25 minutes outside of the city is technically my home town, but I was born in Nottingham so close enough.)). In the past I’ve always looked in on conferences from the outside, so when I heard about &lt;a href=&quot;ht...
+            </description>
+            <pubDate>Tue, 18 Jan 2011 00:00:00 +0000</pubDate>
+            <guid>
+                /2011/My-First-Conference-(Part-One)
+            </guid>
+        </item>
+        
+        <item>
+            <title>Leaving Tumblr</title>
+            <link>
+                /2011/Leaving-Tumblr
+            </link>
+            <description>
+                &lt;p&gt;It’s been just under a year since I began trialling &lt;a href=&quot;http://www.tumblr.com/&quot;&gt;Tumblr&lt;/a&gt; as the basis of my blog. At the time I was writing from &lt;a href=&quot;http://phil.electricweekend.com/&quot;&gt;Electric Weekend&lt;/a&gt; but had been struggling thanks to several events that happened at the end of 2009. In an attempt to get back in to the swing of ...
+            </description>
+            <pubDate>Mon, 17 Jan 2011 00:00:00 +0000</pubDate>
+            <guid>
+                /2011/Leaving-Tumblr
+            </guid>
+        </item>
+        
+        <item>
+            <title>Introducing PBcom</title>
+            <link>
+                /2010/Introducing-PBcom
+            </link>
+            <description>
+                &lt;p&gt;The last few months have been very quiet here at Electric Weekend, there’s been lots going on behind the scenes which have made it hard to write here. I covered some of those in the last post, but now I’m beginning to feel the desire to write again.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately I also feel as a person I’ve begun to out grow Electric Weekend, particularly as I look to present mysel...
+            </description>
+            <pubDate>Tue, 02 Mar 2010 00:00:00 +0000</pubDate>
+            <guid>
+                /2010/Introducing-PBcom
+            </guid>
+        </item>
+        
+        <item>
+            <title>Summer 2009</title>
+            <link>
+                /2009/Summer-2009
+            </link>
+            <description>
+                &lt;p&gt;Well, it’s been a while. In fact it’s been the longest gap between posts there’s ever been on Electric Weekend. I’m not going to apologise, the simple fact is that in the last 2/3 months a lot of stuff has happened, a mixture of ends of chapters, beginnings of new ones and a good bye.&lt;/p&gt;
+
+&lt;p&gt;The biggest end to a chapter has meant I’m now living in a flat on my tod instead ...
+            </description>
+            <pubDate>Tue, 06 Oct 2009 00:00:00 +0100</pubDate>
+            <guid>
+                /2009/Summer-2009
+            </guid>
+        </item>
+        
+        <item>
+            <title>Experiencing A Fever</title>
+            <link>
+                /2009/Experiencing-A-Fever
+            </link>
+            <description>
+                &lt;p&gt;I’ve done something tonight I’ve not done for a a while. I’ve sat at my desk with a glass of wine and read. I’ve read feeds. Some of which contained posts that stretched back a few weeks, others posts written today and I’ve come out the other side feeling like I’ve enjoyed a relaxed evening.&lt;/p&gt;
+
+&lt;p&gt;In a world where we get busier and busier, where more and more things are g...
+            </description>
+            <pubDate>Mon, 20 Jul 2009 00:00:00 +0100</pubDate>
+            <guid>
+                /2009/Experiencing-A-Fever
+            </guid>
+        </item>
+        
+        <item>
+            <title>Motivation</title>
+            <link>
+                /2009/Motivation
+            </link>
+            <description>
+                &lt;p&gt;These days, I’m sure like many, my primary source of reading material is via the internet, or more specifically my feed reader. There’s a lot of great content out on the web and filtering out the cruft to get to it can be a bit of a mission. We are bombarded with information clamouring for our attention the moment we open our web browser, so finding a way of weeding out the crap to rev...
+            </description>
+            <pubDate>Mon, 04 May 2009 00:00:00 +0100</pubDate>
+            <guid>
+                /2009/Motivation
+            </guid>
+        </item>
+        
+        <item>
+            <title>The Talent Crutch</title>
+            <link>
+                /2009/The-Talent-Crutch
+            </link>
+            <description>
+                &lt;p&gt;Micaheal Mistretta has been at it again. Another excellent post this time about &lt;a href=&quot;http://michaelmistretta.com/2009/the-myth-of-talent/&quot;&gt;The Myth of Talent&lt;/a&gt; which brought to mind a lesson I learned back when I was 16 doing my GCSE’s.&lt;/p&gt;
+
+&lt;p&gt;I have a talent, you have a talent, everyone has a talent. A lot of people don’t believe they have one,...
+            </description>
+            <pubDate>Sat, 21 Feb 2009 00:00:00 +0000</pubDate>
+            <guid>
+                /2009/The-Talent-Crutch
             </guid>
         </item>
         

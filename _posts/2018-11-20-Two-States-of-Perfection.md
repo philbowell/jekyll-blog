@@ -9,9 +9,7 @@ It’s the fear of the blank page.
 
 Over the last few years when I’ve started a new sketchbook I’ve developed a habit. I open it to the first page, grab a pen and I write the same sentence.
 
-\<blockquote\>
-I give myself permission to mess this sketchbook up.
-\</blockquote\>
+> I give myself permission to mess this sketchbook up.
 
 From then on I use it how I want and it doesn’t matter what goes in it.
 

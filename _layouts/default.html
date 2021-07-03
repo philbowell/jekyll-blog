@@ -6,21 +6,20 @@ title: Home
 <html>
     <head>
         <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>{{ page.title }}</title>
         <link rel="stylesheet" href="/assets/css/styles.css">
     </head>
     <body>
         <header>
-            {% include navigation.html %}
+              <div class="container">
+                  {% include navigation.html %}
+              </div>
         </header>
-        <div class="container">
-			<div class="right-bleed">
-				<p>{{ page.date | date_to_string }}</p>
-				<h1>{{ page.title }}</h1>
-			</div>
+        <div class="">
             {{ content }}
         </div>
-		
+
 		{% include footer.html %}
     </body>
 </html>

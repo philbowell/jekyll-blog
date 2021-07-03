@@ -1,5 +1,6 @@
 ---
 title: Roaming around
+tags: note-making personal-knowledge tools
 ---
 Since the end of August I've been using Roam Research as my notes application. Having tried and played around with Notion but finding it to be too much work to manage anything, I decided to give Roam and it's freeform notes a try.
 

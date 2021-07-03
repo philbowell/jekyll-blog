@@ -1,17 +1,16 @@
 ---
 title: Write sentences, what I’m thinking, because I want too
+tags: creative-thinking writing blogging
 ---
 
-Tonight I came across two blog posts in Reeder as I was lying in bed catching up on my feeds and watching the Formula One.
-
-The [first](https://audacious.blog/2021/write/) was all about writing. The author coined a phrase that is very reminiscent of Michael Pollan’s approach to food.
+Tonight I came across two blog posts in Reeder as I was lying in bed catching up on my feeds and watching the Formula One. The [first](https://audacious.blog/2021/write/) was all about writing. The author coined a phrase that is very reminiscent of Michael Pollan’s approach to food.
 > Write sentences, not too many, mostly active.
 
 It riffs nicely off
 
 > Eat food, not too much, mostly plants
 
-Something which I’m trying to stick too but not very good at. It might have connected with me because it’s familiar, but I think it goes a bit deeper than that. I’ve been trying to write more lately. I want to post a lot more regularly than I do, but often feel that I’m not contributing enough to warrant a post. 
+Something which I’m trying to stick too but not very good at. It might have connected with me because it’s familiar, but I think it goes a bit deeper than that. I’ve been trying to write more lately. I want to post a lot more regularly than I do, but often feel that I’m not contributing enough to warrant a post.
 
 The [second](https://gabz.me/2021/03/25/just-blog.html "Just blog") seemed to know what I am thinking and hit me between the eyes.
 

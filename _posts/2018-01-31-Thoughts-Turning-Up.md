@@ -1,13 +1,11 @@
 ---
 title: Thoughts On Just Turning Up
 ---
-I’ve been thinking a little more about the \<a href="http://philbowell.com/2018/thoughts-as-nest-eggs/"\>link I posted\</a\> to Austin Kleon’s blog the other day. I finished it with the line
+I’ve been thinking a little more about the [link I posted](http://philbowell.com/2018/thoughts-as-nest-eggs) to Austin Kleon’s blog the other day. I finished it with the line
 
-\<blockquote\>
-Instead there should just be turning up to write down a thought and seeing where it takes you.
-
-It’s a sentiment that you hear quite regularly around the Internet these days. Just keep turning up every day and do the thing—whatever your thing is.
-\</blockquote\>
+> Instead there should just be turning up to write down a thought and seeing where it takes you.
+>
+> It’s a sentiment that you hear quite regularly around the Internet these days. Just keep turning up every day and do the thing—whatever your thing is.
 
 The phrase turning up is just a less intimidating way of saying be disciplined. Turning up to write a blog post everyday is a discipline, just as reading your bible every day is or getting up without pressing the snooze button.
 

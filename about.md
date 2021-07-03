@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: about
 title: About
 permalink: /about
 ---
-Hi, I’m Philip!
+Hi, I’m Phil!
 
 I’m a Christian, a designer, and a gadget fan who lives in Cheltenham, UK.
 

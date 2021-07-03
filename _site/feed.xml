@@ -6,23 +6,7 @@
         <link></link>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
         <description></description>
-        <lastBuildDate>Sat, 03 Jul 2021 01:15:49 +0100</lastBuildDate>
-        
-        <item>
-            <title></title>
-            <link>
-                /2021/2009-01-03-Two-Mac-Nightmare-Email-Contacts
-            </link>
-            <description>
-                &lt;p&gt;If you’ve only just found this series of posts exploring how I keep my two Macs in sync you might want to look at the &lt;a href=&quot;http://phil.electricweekend.com/2008/12/mac-sync-series/&quot;&gt;introduction&lt;/a&gt; of the series to help set the scene. In this post I want to explore the issue of keeping emails and contacts in sync.&lt;/p&gt;
-
-&lt;p&gt;Now I’m sure the majority ...
-            </description>
-            <pubDate>Sat, 03 Jul 2021 01:15:49 +0100</pubDate>
-            <guid>
-                /2021/2009-01-03-Two-Mac-Nightmare-Email-Contacts
-            </guid>
-        </item>
+        <lastBuildDate>Sat, 03 Jul 2021 01:31:36 +0100</lastBuildDate>
         
         <item>
             <title>A tool for thinking</title>
@@ -1115,6 +1099,22 @@ Overall I enjoyed the day, it was fun, informative and pushed me out of my comfo
             <pubDate>Sat, 21 Feb 2009 00:00:00 +0000</pubDate>
             <guid>
                 /2009/The-Talent-Crutch
+            </guid>
+        </item>
+        
+        <item>
+            <title>Two Mac Nightmare - Email & Contacts</title>
+            <link>
+                /2009/Two-Mac-Nightmare-Email-Contacts
+            </link>
+            <description>
+                &lt;p&gt;If you’ve only just found this series of posts exploring how I keep my two Macs in sync you might want to look at the &lt;a href=&quot;http://phil.electricweekend.com/2008/12/mac-sync-series/&quot;&gt;introduction&lt;/a&gt; of the series to help set the scene. In this post I want to explore the issue of keeping emails and contacts in sync.&lt;/p&gt;
+
+&lt;p&gt;Now I’m sure the majority ...
+            </description>
+            <pubDate>Sat, 03 Jan 2009 00:00:00 +0000</pubDate>
+            <guid>
+                /2009/Two-Mac-Nightmare-Email-Contacts
             </guid>
         </item>
         

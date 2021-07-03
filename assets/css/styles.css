@@ -41,6 +41,7 @@
 	--colour-font: var(--white);
 	--link: rgb(var(--accent));
 	--header: var(--tint-9);
+	--tint-1: var(--tint-9);
   }
 }
 
@@ -189,7 +190,7 @@ nav a {
 }
 
 footer {
-	background: var(--dark);
+	background: var(--tint-9);
 	color: var(--white);
 	margin-top: 4rem;
 	padding: 4em 4rem 3rem 4rem;
@@ -306,10 +307,10 @@ footer {
 }
 
 .post footer {
-	background: var(--white);
-	color: var(--dark);
+	border-radius: 1rem;
+	color: var(--colour-bg);
 	margin-top: 4rem;
-	padding: 0;
+	padding: 1rem;
 }
 
 .page-navigation {

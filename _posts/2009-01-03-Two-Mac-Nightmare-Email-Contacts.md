@@ -1,5 +1,5 @@
 ---
-title: Two Mac Nightmare: Email & Contacts
+title: Two Mac Nightmare - Email & Contacts
 ---
 If you've only just found this series of posts exploring how I keep my two Macs in sync you might want to look at the <a href="http://phil.electricweekend.com/2008/12/mac-sync-series/">introduction</a> of the series to help set the scene. In this post I want to explore the issue of keeping emails and contacts in sync.
 

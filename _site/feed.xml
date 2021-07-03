@@ -6,7 +6,7 @@
         <link></link>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
         <description></description>
-        <lastBuildDate>Sat, 03 Jul 2021 01:31:36 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 11:31:30 +0100</lastBuildDate>
         
         <item>
             <title>A tool for thinking</title>
@@ -1115,6 +1115,53 @@ Overall I enjoyed the day, it was fun, informative and pushed me out of my comfo
             <pubDate>Sat, 03 Jan 2009 00:00:00 +0000</pubDate>
             <guid>
                 /2009/Two-Mac-Nightmare-Email-Contacts
+            </guid>
+        </item>
+        
+        <item>
+            <title>The Two Mac Nightmare – Calendars</title>
+            <link>
+                /2008/The-Two-Mac-Nightmare-Calendars
+            </link>
+            <description>
+                &lt;p&gt;When I &lt;a href=&quot;http://phil.electricweekend.com/2008/12/mac-sync-series/&quot;&gt;introduced&lt;/a&gt; this series of posts, I highlighted the main areas I wanted to keep in sync between my Macs and a web interface for use at work. This post aims to introduce you to the method I use to keep my calendar in sync across the three areas.
+On both my Macs I use iCal to keep things or...
+            </description>
+            <pubDate>Mon, 15 Dec 2008 00:00:00 +0000</pubDate>
+            <guid>
+                /2008/The-Two-Mac-Nightmare-Calendars
+            </guid>
+        </item>
+        
+        <item>
+            <title>The Two Mac Nightmare – Synchronisation</title>
+            <link>
+                /2008/The-Two-Mac-Nightmare-Synchronisation
+            </link>
+            <description>
+                &lt;p&gt;For the last couple of years I’ve been wrestling with the age old problem of having two Macs, a desktop and a laptop. Whilst it’s nice to have the luxury of two Macs it’s always presented an issue that I’m only now beginning to find a solution for. The age old problem of keeping the two machines in sync.&lt;/p&gt;
+
+&lt;p&gt;Like many people I’ve gone down the route of pursuing that &lt...
+            </description>
+            <pubDate>Thu, 04 Dec 2008 00:00:00 +0000</pubDate>
+            <guid>
+                /2008/The-Two-Mac-Nightmare-Synchronisation
+            </guid>
+        </item>
+        
+        <item>
+            <title>Faceless</title>
+            <link>
+                /2008/Faceless
+            </link>
+            <description>
+                &lt;p&gt;Yesterday I encountered something at the bank which made me really think about the way some services are provided. More specifically it’s made me think about how technology is being introduced and taking the place of humans.&lt;/p&gt;
+
+&lt;p&gt;As I’m sure many of you know, I like technology. It fascinates me and I believe used correctly it can help us do many tasks. In fact I’d say pr...
+            </description>
+            <pubDate>Sun, 02 Mar 2008 00:00:00 +0000</pubDate>
+            <guid>
+                /2008/Faceless
             </guid>
         </item>
         

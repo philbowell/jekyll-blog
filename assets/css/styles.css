@@ -307,6 +307,7 @@ footer {
 }
 
 .post footer {
+	background: var(--tint-1);
 	border-radius: 1rem;
 	color: var(--colour-bg);
 	margin-top: 4rem;

@@ -1,5 +1,5 @@
 ---
-title: It’s World Elephant Day Today
+title: World Elephant Day Is Today
 tags: elephants comfort
 ---
 This morning I found out that it's world elephant day. It's one of those facts which has stuck in my mind ever since for the simple fact that elephants are my favourite animals.

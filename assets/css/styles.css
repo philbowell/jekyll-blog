@@ -51,7 +51,8 @@ body {
 	background: var(--colour-bg);
 	color: var(--colour-font);
 	font-family: 'Inter var experimental', sans-serif;
-	line-height: 1.75;
+	font-size: 1.25rem;
+	line-height: 1.5em;
 	margin: 0;
 }
 

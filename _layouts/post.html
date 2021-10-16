@@ -2,17 +2,12 @@
 layout: default
 ---
 <article class="post">
+    <div class="post-date">
+        Published on <date>{{ page.date | date: "%d %B %Y" }}</date>
+    </div>
     <header class="post-title">
         <h1>{{ page.title }}</h1>
     </header>
-    <div class="post-meta">
-        <date>{{ page.date | date: "%Y-%m-%d" }}</date>
-        <ul>
-            {% for tag in page.tags %}
-                <li>#{{ tag }}</li>
-            {% endfor %}
-        </ul>
-    </div>
     {{ content }}
     <footer class="post-footer">
         <div class="page-navigation">

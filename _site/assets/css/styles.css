@@ -10,8 +10,8 @@
 	--main-color: #0076BA;
 	--main-color-light: #56C1FF;
 	--main-color-dark: #0B2E42;
-	--dark: #141414;
-	--white: #FEFCFD;
+	--dark: #282828;
+	--white: #FAFAFA;
 	--accent: 255, 188, 31;
 	--accent-light: #FFEDC2;
 	--accent-2: #B81365;
@@ -55,6 +55,7 @@ body {
 
 a {
 	color: var(--link);
+	text-decoration: none;
 	transition: all 0.2s ease-in-out;
 }
 
@@ -77,31 +78,19 @@ h1, h2, h3, h4, h5 {
 }
 
 h1, .h1 {
-  font-size: 5.653rem;
-  line-height: 1em;
+  font-size: 2.25rem;
   margin-top: 0;
 }
 
-h2, .h2 {font-size: 3.998rem;}
+h2, .h2 {font-size: 2rem;}
 
-h3, .h3 {font-size: 2.827rem;}
-
-h4, .h4 {font-size: 1.999rem;}
-
-h5, .h5 {font-size: 1.414rem;}
-
-@media screen and (max-width: 750px) {
-	h1, .h1 {
-		font-size: 3.65rem;
-	}
-}
+h3, .h3 {font-size: 1.5rem;}
 
 small, .text_small {font-size: 0.8rem;}
 
 header {
 	background: var(--header);
 	font-size: 1.2rem;
-	padding: 0 4rem 0 0;
 }
 
 .home-link {
@@ -135,9 +124,9 @@ nav a {
 	display: grid;
 	grid-template-columns:
 		1fr
-		1fr
-		min(70ch, calc(100% - 4rem))
-		1fr
+		4rem
+		min(700px, calc(100% - 4rem))
+		4rem
 		1fr;
 	grid-column-gap: 2rem;
 	margin: 0 4rem;
@@ -149,38 +138,9 @@ nav a {
 	}
 }
 
-.container > * {
-	grid-column: 1 / -1;
-}
 
-.post > *, #about .content > * {
+.post > *, #about .content > *, header .container > *, #home .container > *, #archive .container > *  {
 	grid-column: 3;
-}
-
-@media screen and (max-width: 750px) {
-	.container > *, .post > * {
-		grid-column: 1 / 4;
-	}
-}
-
-#home .container {
-	display: grid;
-	grid-template-columns:
-		4rem
-		min(70ch, calc(100% - 4rem))
-		1fr
-		1fr;
-}
-
-#home .container > * {
-	grid-column: 1 / 4;
-}
-
-#home .intro, #archive .intro {
-	font-size: 1.7rem;
-	font-weight: 500;
-	grid-column: 1 / 4;
-	padding: 8rem 0;
 }
 
 .content {
@@ -195,70 +155,37 @@ footer {
 }
 
 @media screen and (max-width: 750px) {
-	#home .container {
+	#home .container, .container, .post {
 		display: grid;
 		grid-template-columns:
 			min(70ch, calc(100% - 4rem));
 	}
-
-	#home .intro, #archive .intro {
-		padding: 4rem 0;
+	.post > *, #about .content > *, header .container > *, #home .container > *, #archive .container > *  {
+		grid-column: 1;
 	}
 }
 
 
 /* HOME PAGE */
 
-#home h1, #archive h1 {
-	font-size: 8rem;
-	font-weight: 900;
-}
-
-#home h1 span {
-	opacity: 0;
-	transition: all 1s ease-in-out;
-}
-
 #home h1:hover span {
 	opacity: 1;
 }
 
-#home article, #archive article {
-	align-items: baseline;
-	display: flex;
+#home article {
+	margin: 0 0 2rem 0;
 }
 
-#home article div, #archive article div {
-	font-variant-numeric: tabular-nums;
-	margin-right: 2em;
-	min-width: 100px;
-}
-
-
-#home article .h3 {
-	margin: 0 0 1rem 0;
-}
-
-.intro {
-	background: var(--tint-1);
-}
 
 @media screen and (max-width: 750px) {
-	#home h1, #archive h1 {
-		font-size: 5rem;
-	}
 
-	#home article, #archive article {
-		flex-wrap: wrap;
-		margin: 1rem 0;
-	}
-
-	#home article div, #archive article div {
-		min-width: 100%;
-	}
 }
 
-/* ARCHIVE */
+/* Pages */
+
+.page-title {
+	padding: 4rem 0 0 0;
+}
 
 #archive .h4 {
 	margin: 0 0 1rem 0;
@@ -271,26 +198,16 @@ footer {
 }
 
 .post-title {
-	display: block;
-	grid-column: 1 / 4;
-	padding: 8em 0 1em;
+	padding: 1em 0 1em;
 }
 
-.post p {
-	grid-column: 3;
-}
-
-.post p:first-of-type {
-	font-size: 1.1rem;
-	font-weight: 500;
-	line-height: 1.75rem;
-}
-
-.post-meta {
+.post-date {
 	color: var(--tint-4);
-	font-size: 0.8rem;
-	grid-column: 1 / 2;
-	margin-top: 0.3rem;
+	font-size: 0.9rem;
+	font-weight: 600;
+	letter-spacing: 1px;
+	padding-top: 4rem;
+	text-transform: uppercase;
 }
 
 .post-meta ul {
@@ -300,9 +217,6 @@ footer {
 }
 
 
-.post blockquote p {
-	margin: 0;
-}
 
 .post footer {
 	background: var(--tint-1);
@@ -314,6 +228,7 @@ footer {
 
 .page-navigation {
 	display: flex;
+	font-size: 1rem;
 }
 
 .page-navigation a {
@@ -384,19 +299,15 @@ footer {
 /* QUOTES */
 
 blockquote {
-	background: rgba(var(--accent), 0.2);
-	border-left: 5px solid rgb(var(--accent));
-	border-radius: 0 5px 5px 0;
-	font-size: 1.2rem;
-	font-style: italic;
-	font-weight: 200;
-	grid-column: 3;
-	padding: 1rem 1rem 1rem 1.5rem;
-	margin: 0 0 1.4rem 0;
+	margin: 0;
 }
 
 blockquote p {
-	margin: 0;
+	font-size: 1.4rem;
+	font-style: italic;
+	font-weight: 200;
+	margin: 0 0 1.5 0;
+	padding: 0;
 }
 
 .full-bleed, p.full-bleed {

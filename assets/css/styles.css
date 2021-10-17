@@ -112,7 +112,8 @@ header {
 
 @media screen and (max-width: 750px){
 	.home-link {
-		padding: 0.5rem 0.5rem 0.25rem 0.5rem;
+		padding: 0;
+		width: 100px;
 	}
 }
 

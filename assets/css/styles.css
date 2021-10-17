@@ -121,6 +121,12 @@ header {
 	color: rgb(var(--accent));
 }
 
+@media screen and (max-width: 750px){
+	.home-link {
+		padding: 0.5rem 0.5rem 0.25rem 0.5rem;
+	}
+}
+
 nav {
 	align-items: center;
 	display: flex;

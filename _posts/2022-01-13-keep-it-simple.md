@@ -1,0 +1,12 @@
+---
+title: Keep it simple…
+tags: writing blogging hobby
+---
+Part of my approach to the new year involved rediscovering one of my habits. I've been trying to [write a blog post more often](https://philbowell.com/2022/i-want-my-hobby-back). I initially intended to use my Micro.blog and to post all my content there, but given the chance to reflect I realised I wanted my longer posts to live here. I'm not committing to a set number of posts per week, but I am committing to posting here more often.
+
+All week I've been thinking about what to write about. Everytime I opened my iPad and sat down to write something I couldn't think of anything to write. It started to become a problem. I wanted to write a post, but I didn't know what to write. I wanted to write a post but I began to feel like I didn't have anything to say. I wanted to write but I began to believe I didn't have anything to say or write.
+
+This is evening as I sat here recovering from my counselling session I was bumbling around on the internet. Something made me google a photographer whose blog I used to follow years ago. I even have one of his photos. To my delight I found his website and realised he was still blogging regularly. As I scrolled through his posts I came across one titled [Stop hiding behind complexity](https://www.jorgeq.com/blog/stop-hiding-behind-complexity). The first line struck me:
+> Whether we like to admit it or not, we sometimes enjoy making the simplest task more difficult because it's easier to blame the many loops it would have taken to finish it if we don't succeed.
+
+I realised perhaps this is what I'm doing with my blog. I want to write a post but I think that I need to write something significant. Instead of sitting down to write something, be it about something I've read or done this week, I'm making the simple task complicated. The likelihood is that it's easier to not post something and hide behind the thought that I have nothing to say than it is to open Obsidian and write until I've put something together worth posting. If I want to write for my blog more often, it should be as simple as writing a post and publishing it. No second guessing myself and no worrying about whether I have something to say. Just writing.

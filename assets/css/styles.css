@@ -126,11 +126,25 @@ small, .text-small {font-size: 0.8rem;}
 nav {
 	align-items: center;
 	display: flex;
+	justify-content: space-between;
 }
 
 nav a {
 	color: var(--colour-font);
 	margin: 0 2rem 0 0;
+}
+
+a.follow {
+	border: 1px solid var(--main-color);
+	border-radius: 1rem;
+	color: var(--main-color);
+	font-size: 0.8rem;
+	padding: 0rem 0.75rem;
+}
+
+a.follow:hover {
+	background-color: var(--main-color);
+	color: var(--white);
 }
 
 .container, .post {

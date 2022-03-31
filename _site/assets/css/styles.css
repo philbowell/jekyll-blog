@@ -158,10 +158,11 @@ nav a {
 }
 
 .site-footer {
-	background: var(--tint-9);
-	color: var(--white);
+	background: var(--tint-1);
+	color: var(--tint-3);
+	font-size: 0.8rem;
 	margin-top: 4rem;
-	padding: 4em 4rem 3rem 4rem;
+	padding: 4em 4rem 1rem 4rem;
 }
 
 @media screen and (max-width: 750px) {
@@ -236,6 +237,7 @@ nav a {
 }
 
 .bookmark footer {
+	color: var(--tint-4);
 	font-size: 0.9rem;
 }
 
@@ -317,7 +319,9 @@ nav a {
 /* QUOTES */
 
 blockquote {
+	border-left: 5px solid var(--tint-2);
 	margin: 0;
+	padding: 0 0 0 1rem;
 }
 
 blockquote p {

@@ -89,9 +89,13 @@ h2, .h2 {font-size: 2rem;}
 
 h3, .h3 {font-size: 1.5rem;}
 
-small, .text_small {font-size: 0.8rem;}
+.bookmark h3 {
+	margin: 0 0 1.38rem 0;
+}
 
-header {
+small, .text-small {font-size: 0.8rem;}
+
+.site-header {
 	background: var(--header);
 	font-size: 1.2rem;
 }
@@ -114,7 +118,7 @@ header {
 	.home-link {
 		padding: 10px 10px 5px 10px;
 	}
-	
+
 	.home-link img {
 		width: 50px;
 	}
@@ -160,7 +164,7 @@ nav a {
 	padding: 4rem 0 0 0;
 }
 
-footer {
+.site-footer {
 	background: var(--tint-9);
 	color: var(--white);
 	margin-top: 4rem;
@@ -211,15 +215,16 @@ footer {
 }
 
 .post-title {
-	padding: 1em 0 1em;
+	padding: 4rem 0 1em;
 }
 
-.post-date {
+.post-date a {
 	color: var(--tint-4);
+	display: block;
 	font-size: 0.9rem;
 	font-weight: 600;
 	letter-spacing: 1px;
-	padding-top: 4rem;
+	padding: 0 0 1rem 0;
 	text-transform: uppercase;
 }
 
@@ -229,19 +234,26 @@ footer {
 	padding: 0;
 }
 
-
-
 .post footer {
 	background: var(--tint-1);
 	border-radius: 1rem;
-	color: var(--colour-bg);
+	font-size: 1rem;
 	margin-top: 4rem;
 	padding: 1rem;
+}
+
+.bookmark footer {
+	font-size: 0.9rem;
+}
+
+.standard {
+	padding: 3rem 0 0 0;
 }
 
 .page-navigation {
 	display: flex;
 	font-size: 1rem;
+	margin: 3rem 0 0 0;
 }
 
 .page-navigation a {

@@ -6,7 +6,26 @@
         <link></link>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
         <description></description>
-        <lastBuildDate>Sun, 27 Mar 2022 11:33:56 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 11:54:14 +0100</lastBuildDate>
+        
+        <item>
+            <title>Work, Family, Scene - Pick two</title>
+            <link>
+                /2022/Work-Family-Scene
+            </link>
+            <description>
+                &lt;blockquote&gt;
+  &lt;p&gt;Life is about tradeoffs. When we know what to say no to, and we know why, we can say yes with comfort and confidence to the things that matter. To the things that last.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In conversation with one of my favourite authors Austin Kleon, Ryan Holiday finished a post with this quote. They were discussing the choices between work, family, and scene, but I the sentence above can be applied to a lot of things.&lt;/p&gt;
+
+            </description>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 +0100</pubDate>
+            <guid>
+                /2022/Work-Family-Scene
+            </guid>
+        </item>
         
         <item>
             <title>Any day can be Blue Monday</title>

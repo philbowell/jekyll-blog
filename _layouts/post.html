@@ -2,27 +2,34 @@
 layout: default
 ---
 <article class="post">
-    <div class="post-date">
-        Published on <date>{{ page.date | date: "%d %B %Y" }}</date>
-    </div>
     <header class="post-title">
         <h1>{{ page.title }}</h1>
     </header>
     {{ content }}
+
     <footer class="post-footer">
-        <div class="page-navigation">
-          {% if page.previous.url %}
-            <a class="prev" href="{{page.previous.url}}">
-                <div class="direction">&#10094; Previous</div>
-                <div class="title">{{page.previous.title}}</div>
-            </a>
-          {% endif %}
-          {% if page.next.url %}
-            <a class="next" href="{{page.next.url}}">
-                <div class="direction">Next &#10095;</div>
-                <div class="title">{{page.next.title}}</div>
-            </a>
-          {% endif %}
+        <div class="post-date">
+            Published on <date>{{ page.date | date: "%d %B %Y" }}</date>
+        </div>
+        <div class="post-tags">
+            {% for tag in page.tags %}
+                #{{ tag }}
+            {% endfor %}
         </div>
     </footer>
+
+    <div class="page-navigation">
+      {% if page.previous.url %}
+        <a class="prev" href="{{page.previous.url}}">
+            <div class="direction">&#10094; Previous</div>
+            <div class="title">{{page.previous.title}}</div>
+        </a>
+      {% endif %}
+      {% if page.next.url %}
+        <a class="next" href="{{page.next.url}}">
+            <div class="direction">Next &#10095;</div>
+            <div class="title">{{page.next.title}}</div>
+        </a>
+      {% endif %}
+    </div>
 </article>

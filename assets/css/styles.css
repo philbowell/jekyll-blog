@@ -129,7 +129,7 @@ nav {
 }
 
 nav a {
-	color: var(--dark);
+	color: var(--colour-font);
 	margin: 0 2rem 0 0;
 }
 
@@ -160,12 +160,32 @@ nav a {
 	padding: 4rem 0 0 0;
 }
 
+.archive-link {
+	margin: 4rem 0;
+	text-align: center;
+}
+
+.archive-link a {
+	border: solid 1px var(--tint-2);
+	border-radius: 18px;
+	color: var(--tint-7);
+	font-size: 1rem;
+	font-weight: 600;
+	padding: 0.5rem 1rem;
+}
+
+.archive-link a:hover {
+	background-color: var(--tint-1);
+	border-color: var(--tint-7);
+}
+
 .site-footer {
 	background: var(--tint-1);
-	color: var(--tint-3);
+	color: var(--tint-4);
 	font-size: 0.8rem;
 	margin-top: 4rem;
 	padding: 4em 4rem 1rem 4rem;
+	text-align: center;
 }
 
 @media screen and (max-width: 750px) {

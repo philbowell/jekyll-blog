@@ -93,22 +93,21 @@ h3, .h3 {font-size: 1.5rem;}
 small, .text-small {font-size: 0.8rem;}
 
 .site-header {
-	background: var(--header);
-	font-size: 1.2rem;
+	font-size: 1rem;
 }
 
 .home-link {
-	background-color: var(--main-color-light);
-	color: var(--colour-font);
+	background-color: var(--main-color);
+	border-radius: 0 0 8px 8px;
 	font-weight: 600;
 	margin: 0 2rem 0 0;
-	padding: 1.5rem 1.5rem 0.75rem 1.5rem;
+	padding: 1rem 1rem 0.25rem 1rem;
 	text-decoration: none;
-	width: 3rem;
+	width: 2rem;
 }
 
 .home-link:hover {
-	color: rgb(var(--accent));
+	background-color: var(--hover);
 }
 
 @media screen and (max-width: 750px){
@@ -127,11 +126,8 @@ nav {
 }
 
 nav a {
+	color: var(--dark);
 	margin: 0 2rem 0 0;
-}
-
-.current {
-	color: green;
 }
 
 .container, .post {

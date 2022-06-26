@@ -6,7 +6,42 @@
         <link></link>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
         <description></description>
-        <lastBuildDate>Thu, 31 Mar 2022 17:44:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 18:27:30 +0100</lastBuildDate>
+        
+        <item>
+            <title>Testing</title>
+            <link>
+                /2022/test
+            </link>
+            <description>
+                &lt;p&gt;Testing&lt;/p&gt;
+
+            </description>
+            <pubDate>Sun, 26 Jun 2022 00:00:00 +0100</pubDate>
+            <guid>
+                /2022/test
+            </guid>
+        </item>
+        
+        <item>
+            <title>Having a culture of writing at work</title>
+            <link>
+                /2022/Having-a-culture-of-writing-at-work
+            </link>
+            <description>
+                &lt;p&gt;Chris Hannah with an interesting post about &lt;a href=&quot;https://chrishannah.me/having-a-culture-of-writing-at-work/&quot;&gt;writing at work&lt;/a&gt;. I go through phases at work where I will write a lot to help me clarify projects and make sure the problems we are trying to solve are clearly defined. Chris highlights a few other reasons he writes at work, with this one in particular standing out:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Gives the opportunity for more people to gain knowledge&lt;/strong&gt; - Sometimes when you’re on a call or in a meeting, knowledge stays within small groups of people. But by having a written record, it allows more people (if shared appropriately) to also read it. For example, maybe a new employee wanting to know more about a piece of work/functionality, or someone on the same team that wishes to gain a better perspective of a bigger piece of work.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sharing of knowledge is crucial in the workplace, especially in the world of hybrid and remote working. Conversations happen in private chats or small video calls and not always everyone who needs to be there is present. Some food for thought.&lt;/p&gt;
+
+            </description>
+            <pubDate>Fri, 08 Apr 2022 00:00:00 +0100</pubDate>
+            <guid>
+                /2022/Having-a-culture-of-writing-at-work
+            </guid>
+        </item>
         
         <item>
             <title>The missing link</title>
